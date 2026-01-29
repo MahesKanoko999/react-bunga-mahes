@@ -14,7 +14,7 @@ function App() {
     <>
       <div className="night"></div>
       <div className="header-message">
-        Carla, kamu itu kayak bug di hidupku—<br />nggak bisa dihapus, malah bikin aku senyum tiap hari.
+        Carla, kamu itu kayak bug di hidupku—<br />nggak bisa dihapus, malah bikin aku senyum tiap hari. <br />To Carla From Mahes Kanoko ❤️
       </div>
       <div className="flowers">
         <div className="flower flower--1">
